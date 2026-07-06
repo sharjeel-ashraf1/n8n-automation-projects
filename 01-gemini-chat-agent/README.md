@@ -13,7 +13,7 @@ Chat interface powered by Gemini 1.5 Flash via n8n's AI Agent node.
 
 ## Screenshot
 <p align="center">
-  <img src="./screenshots/Screenshot-1.png" width="250" />
+  <img src="Screenshot-1.png" width="250" />
 </p>
 
 ## Setup

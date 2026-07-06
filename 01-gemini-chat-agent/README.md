@@ -12,7 +12,9 @@ Chat interface powered by Gemini 1.5 Flash via n8n's AI Agent node.
 - Simple Memory
 
 ## Screenshot
-(paste your screenshot here)
+<p align="center">
+  <img src="./screenshots/Screenshot-1.png" width="250" />
+</p>
 
 ## Setup
 1. Import the workflow JSON into n8n
